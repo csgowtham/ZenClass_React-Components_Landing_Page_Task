@@ -12,7 +12,6 @@ import image3 from './assets/img/bg-showcase-3.jpg';
 
 
 
-
 function App() {
 
   const icons = [
